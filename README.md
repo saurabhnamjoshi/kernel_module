@@ -1,2 +1,1 @@
-# kernel_module
-Pratice Code for linux kernel module  
+# kernel_modules
